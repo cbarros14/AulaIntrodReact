@@ -1,0 +1,10 @@
+.App {
+background-color: bisque;
+height: 100%;
+}
+.reverse{
+    width: 50%;
+    margin: 0 auto;
+    border: 1 px solid blueviolet;
+    border-radius: 10px;
+}
